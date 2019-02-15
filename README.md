@@ -20,4 +20,6 @@ example: python main.py lol321
 IMPORTANT WONT WORK UNLESS YOU DO THIS
 
 BEFORE you run the program, inside of the password text file you
-want to use, copy all of the content in there and replace it with list.txt
+want to use, copy all of the content in there and paste it inside list.txt
+
+If you have any trouble, please message my discord account, which is yes at the top.
